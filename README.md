@@ -1,4 +1,4 @@
-# SE_Lab3
-Software engineering course Lab assignment 3
-by Nalin Pandey EB07 E20CSE045 
+#testing how commit works with the help of eclipse
+learning Software engineering
+by Nalin Pandey
 
